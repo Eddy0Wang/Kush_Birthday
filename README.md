@@ -1,2 +1,2 @@
 # Kush_Birthday
-Mini game made for Kush's brirthday
+All resources for mini game made for Kush's brirthday
